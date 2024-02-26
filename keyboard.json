@@ -1,0 +1,12 @@
+{
+    "name": "sample",
+    "vendorId": "0x2e8a",
+    "productId": "0x000a",
+    "matrix": {"rows": 2, "cols": 2},
+    "layouts": {
+        "keymap": [
+            ["0,0","0,1"],
+            ["1,0","1,1"]
+        ]
+    }
+}
